@@ -9,4 +9,4 @@
 
 ---
 
-estabilished on `UNIXUSAT=1743967251101`
+officialy estabilished and presented in WAN at GitHub networks on `UNIXUSAT=1743967251101`
